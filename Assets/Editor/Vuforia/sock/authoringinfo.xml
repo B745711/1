@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="sock" targetId="8eb2f9a2235b45fc817fc9ad1de72a34" version="11.1" toolVersion="9.8.5" bbox="-0.081257 0.012652 -0.153277 0.047079 0.333160 0.141214" previewImage="8eb2f9a2235b45fc817fc9ad1de72a34_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="socks_assembly" assemblyId="706fbb73a9204a559f68deb3fd62d5b4">
+<Part name="sock" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0446181 0.200136 0.557801" rotation="AD: 0.9329352112261015 -0.4218719949825961 1.7180778635571652 193.068" image="sock_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
